@@ -1,0 +1,16 @@
+header{
+    text-align:center;
+}
+#stationeryitems{
+    border: solid 1px black;;
+}
+#row1{
+    display: flex;;
+    border-bottom: solid 1.5px black;
+    align-items: center;
+    padding: 1em 0;
+    margin: 0.5em 0;
+}
+.items_disp{
+    text-align: center;
+}
