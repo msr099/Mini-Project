@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    /* background-color:#a8dadc; */
+    /* background-image: url(/image/bg_index.jpg); */
+}
+header{
+    background-color: #1d3557;
+}
+#logo{
+    width: 8%;
+    height:4%;
+    margin: 0 auto;
+    display:block;
+}
+#nav1{
+    background-color:#f1f1f1;
+}
+#canteeninfo{
+    text-align: justify;
+    /* background-color: #56cfe1; */
+    background-color: #f1f1f1;
+    padding:5%;
+    border:dashed;
+    border-width: 0.1em 0.1em;
+    border-radius: 1em;
+}
+#canteencontainer{
+    margin:5% auto;
+}
+#stationeryinfo{
+    text-align: justify;
+    /* background-color: #e56b6f; */
+    background-color: #f1f1f1;
+    padding:5%;
+    border:dashed;
+    border-width: 0.1em 0.1em;
+    border-radius: 1em;
+}
+#stationerycontainer{
+    margin:5% auto;
+}
+#aboutus{
+    margin-top: 5%;;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+#aboutus h2{
+    border-bottom: 2px solid black;
+    width:calc(100%/3);
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+}
+#contactus{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#contactus h2{
+    border-bottom: 2px solid black;
+    width:calc(100%/3);
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+}
